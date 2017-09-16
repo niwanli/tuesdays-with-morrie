@@ -183,3 +183,7 @@ Tuesdays with Morrie
 > 道别
 
 60. 生活中没有“来不及”这个词。他直到说再见的那一天还在改变着自己。
+
+## Open the Door
+
+If you want to enter another room to explore the treasure you are looking for, you can open the door by clicking at [https://niwanli.github.io/](https://niwanli.github.io/ "Wanli | Home"). Or, if you want to contact me, please email me at **niwanli@yahoo.com**.
